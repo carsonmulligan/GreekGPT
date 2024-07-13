@@ -43,3 +43,4 @@ Here are a few words related to mathematics with their pronunciation:
 Watch this video to learn more about Greek mathematics: [Greek Mathematics](https://youtu.be/YzVgpB8YKLY?si=BAkUiqTFtyvu6cy_)
 
 
+- Greek Mathematics: The Beginning of Greek Math & Greek Numerals https://www.youtube.com/watch?v=5cpH4ErtPjo 
