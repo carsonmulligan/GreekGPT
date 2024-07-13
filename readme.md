@@ -2,6 +2,10 @@
 
 ## Greek Alphabet and Pronunciation Guide
 
+Sing the Greek Alphabet, Yo! https://www.youtube.com/watch?v=xLZhcPafleU
+
+Learn the Greek Alphabet in Less Than 10 Minutes https://www.youtube.com/watch?v=BQVoz-HX2cA 
+
 | Uppercase | Lowercase | Name           | Pronunciation (Approximate)     |
 |-----------|-----------|----------------|---------------------------------|
 | Α         | α         | Alpha          | a as in father                  |
