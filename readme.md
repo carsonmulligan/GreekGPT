@@ -6,6 +6,9 @@ Sing the Greek Alphabet, Yo! https://www.youtube.com/watch?v=xLZhcPafleU
 
 Learn the Greek Alphabet in Less Than 10 Minutes https://www.youtube.com/watch?v=BQVoz-HX2cA 
 
+Basics of Biblical Greek - Session 1 - The Greek Language https://www.youtube.com/watch?v=FjGP_fBAVeI 
+
+
 | Uppercase | Lowercase | Name           | Pronunciation (Approximate)     |
 |-----------|-----------|----------------|---------------------------------|
 | Α         | α         | Alpha          | a as in father                  |
