@@ -44,3 +44,4 @@ Watch this video to learn more about Greek mathematics: [Greek Mathematics](http
 
 
 - Greek Mathematics: The Beginning of Greek Math & Greek Numerals https://www.youtube.com/watch?v=5cpH4ErtPjo 
+- Greek Mathematics: Pythagoras and His Followers https://www.youtube.com/watch?v=Pejl7FRfapY
