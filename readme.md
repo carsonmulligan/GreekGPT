@@ -45,3 +45,35 @@ Watch this video to learn more about Greek mathematics: [Greek Mathematics](http
 
 - Greek Mathematics: The Beginning of Greek Math & Greek Numerals https://www.youtube.com/watch?v=5cpH4ErtPjo 
 - Greek Mathematics: Pythagoras and His Followers https://www.youtube.com/watch?v=Pejl7FRfapY
+
+## Greek Numeral System
+
+| Greek Numeral | Greek Letter | Value |
+|---------------|--------------|-------|
+| Α'            | Alpha        | 1     |
+| Β'            | Beta         | 2     |
+| Γ'            | Gamma        | 3     |
+| Δ'            | Delta        | 4     |
+| Ε'            | Epsilon      | 5     |
+| Ϛ' (or ΣΤ')   | Stigma       | 6     |
+| Ζ'            | Zeta         | 7     |
+| Η'            | Eta          | 8     |
+| Θ'            | Theta        | 9     |
+| Ι'            | Iota         | 10    |
+| Κ'            | Kappa        | 20    |
+| Λ'            | Lambda       | 30    |
+| Μ'            | Mu           | 40    |
+| Ν'            | Nu           | 50    |
+| Ξ'            | Xi           | 60    |
+| Ο'            | Omicron      | 70    |
+| Π'            | Pi           | 80    |
+| Ϙ'            | Koppa        | 90    |
+| Ρ'            | Rho          | 100   |
+| Σ'            | Sigma        | 200   |
+| Τ'            | Tau          | 300   |
+| Υ'            | Upsilon      | 400   |
+| Φ'            | Phi          | 500   |
+| Χ'            | Chi          | 600   |
+| Ψ'            | Psi          | 700   |
+| Ω'            | Omega        | 800   |
+| ϡ'            | Sampi        | 900   |
