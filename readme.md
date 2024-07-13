@@ -29,6 +29,10 @@
 | Ψ         | ψ         | Psi            | ps as in lapse                  |
 | Ω         | ω         | Omega          | o as in no                      |
 
+
+## Lowercase Greek Alphabet Flashcards 
+https://quizlet.com/657089797/greek-alphabet-lowercase-flash-cards/ 
+
 ## Pronunciation Examples
 
 Here are a few words related to mathematics with their pronunciation:
