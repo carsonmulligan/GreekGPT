@@ -2,6 +2,8 @@
 
 ## Greek Alphabet and Pronunciation Guide
 
+Βίντεο Αρχαίας Ελληνικής Ιστορίας / Ancient Greek History Videos in Greek language. https://www.youtube.com/watch?v=wGBpnY17aak&list=PL3WDV93nIfv7CujR9eQKWDHWjpQrfc3zd&index=1
+
 The Eight Ages of Greece - A Complete History https://www.youtube.com/watch?v=Mk-OyRI7c7Q
 
 The Story of the Ancient Greeks - Full Documentary https://www.youtube.com/watch?v=Y_B0bh7MXgI&t=1659s
