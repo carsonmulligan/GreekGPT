@@ -1,6 +1,33 @@
 # GreekGPT - Documenting the Greek Language Learning Process
 
 
+## English Words from Greek 
+
+| English Word   | Greek Origin (Lowercase) | Greek Origin (Uppercase) |
+|----------------|--------------------------|--------------------------|
+| Democracy      | δημοκρατία               | ΔΗΜΟΚΡΑΤΙΑ               |
+| Philosophy     | φιλοσοφία                | ΦΙΛΟΣΟΦΙΑ                |
+| Academy        | ακαδημία                 | ΑΚΑΔΗΜΙΑ                 |
+| Biology        | βιολογία                 | ΒΙΟΛΟΓΙΑ                 |
+| Chronology     | χρονολογία               | ΧΡΟΝΟΛΟΓΙΑ               |
+| Anatomy        | ανατομία                 | ΑΝΑΤΟΜΙΑ                 |
+| Psychology     | ψυχολογία                | ΨΥΧΟΛΟΓΙΑ                |
+| Geography      | γεωγραφία                | ΓΕΩΓΡΑΦΙΑ                |
+| Economy        | οικονομία                | ΟΙΚΟΝΟΜΙΑ                |
+| Technology     | τεχνολογία               | ΤΕΧΝΟΛΟΓΙΑ               |
+| Politics       | πολιτική                 | ΠΟΛΙΤΙΚΗ                 |
+| Theater        | θέατρο                   | ΘΕΑΤΡΟ                   |
+| Mythology      | μυθολογία                | ΜΥΘΟΛΟΓΙΑ                |
+| Ethics         | ηθική                    | ΗΘΙΚΗ                    |
+| Dialogue       | διάλογος                 | ΔΙΑΛΟΓΟΣ                 |
+| Harmony        | αρμονία                  | ΑΡΜΟΝΙΑ                  |
+| Syntax         | σύνταξη                  | ΣΥΝΤΑΞΗ                  |
+| Mathematics    | μαθηματικά               | ΜΑΘΗΜΑΤΙΚΑ               |
+| Symphony       | συμφωνία                 | ΣΥΜΦΩΝΙΑ                 |
+| Gymnasium      | γυμνάσιο                 | ΓΥΜΝΑΣΙΟ                 |
+
+## Search Terms for YouTube
+
 | English Translation                        | Greek Search Term                            | Greek Search Term (All Caps)                |
 |--------------------------------------------|----------------------------------------------|---------------------------------------------|
 | Ancient Greek History documentary          | Αρχαία Ελληνική Ιστορία ντοκιμαντέρ           | ΑΡΧΑΙΑ ΕΛΛΗΝΙΚΗ ΙΣΤΟΡΙΑ ΝΤΟΚΙΜΑΝΤΕΡ          |
