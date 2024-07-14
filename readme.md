@@ -2,7 +2,9 @@
 
 ## Greek Alphabet and Pronunciation Guide
 
-Sing the Greek Alphabet, Yo! https://www.youtube.com/watch?v=xLZhcPafleU
+The Story of the Ancient Greeks - Full Documentary https://www.youtube.com/watch?v=Y_B0bh7MXgI&t=1659s
+
+Sing the Greek Alphabet https://www.youtube.com/watch?v=xLZhcPafleU
 
 Learn the Greek Alphabet in Less Than 10 Minutes https://www.youtube.com/watch?v=BQVoz-HX2cA 
 
