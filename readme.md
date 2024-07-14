@@ -30,7 +30,7 @@ The Eight Ages of Greece - A Complete History https://www.youtube.com/watch?v=Mk
 
 The Story of the Ancient Greeks - Full Documentary https://www.youtube.com/watch?v=Y_B0bh7MXgI&t=1659s
 
-Sing the Greek Alphabet https://www.youtube.com/watch?v=xLZhcPafleU
+Sing the Greek Alphabet https://www.youtube.com/watch?v=YVq3587vT6s
 
 Learn the Greek Alphabet in Less Than 10 Minutes https://www.youtube.com/watch?v=BQVoz-HX2cA 
 
