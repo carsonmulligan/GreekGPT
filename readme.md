@@ -1,5 +1,25 @@
 # GreekGPT - Documenting the Greek Language Learning Process
 
+
+| English Translation                        | Greek Search Term                            | Greek Search Term (All Caps)                |
+|--------------------------------------------|----------------------------------------------|---------------------------------------------|
+| Ancient Greek History documentary          | Αρχαία Ελληνική Ιστορία ντοκιμαντέρ           | ΑΡΧΑΙΑ ΕΛΛΗΝΙΚΗ ΙΣΤΟΡΙΑ ΝΤΟΚΙΜΑΝΤΕΡ          |
+| Ancient Greece documentary                 | Αρχαία Ελλάδα ντοκιμαντέρ                     | ΑΡΧΑΙΑ ΕΛΛΑΔΑ ΝΤΟΚΙΜΑΝΤΕΡ                    |
+| History of Ancient Greece documentary      | Ιστορία της Αρχαίας Ελλάδας ντοκιμαντέρ       | ΙΣΤΟΡΙΑ ΤΗΣ ΑΡΧΑΙΑΣ ΕΛΛΑΔΑΣ ΝΤΟΚΙΜΑΝΤΕΡ       |
+| Ancient Greek Civilization documentary     | Αρχαιοελληνικός Πολιτισμός ντοκιμαντέρ        | ΑΡΧΑΙΟΕΛΛΗΝΙΚΟΣ ΠΟΛΙΤΙΣΜΟΣ ΝΤΟΚΙΜΑΝΤΕΡ        |
+| Ancient Greeks documentary                 | Αρχαίοι Έλληνες ντοκιμαντέρ                   | ΑΡΧΑΙΟΙ ΕΛΛΗΝΕΣ ΝΤΟΚΙΜΑΝΤΕΡ                   |
+| Mycenaean Civilization documentary         | Μυκηναϊκός Πολιτισμός ντοκιμαντέρ             | ΜΥΚΗΝΑΪΚΟΣ ΠΟΛΙΤΙΣΜΟΣ ΝΤΟΚΙΜΑΝΤΕΡ             |
+| Minoan Civilization documentary            | Μινωικός Πολιτισμός ντοκιμαντέρ               | ΜΙΝΩΙΚΟΣ ΠΟΛΙΤΙΣΜΟΣ ΝΤΟΚΙΜΑΝΤΕΡ               |
+| Classical Greece documentary               | Κλασική Ελλάδα ντοκιμαντέρ                    | ΚΛΑΣΙΚΗ ΕΛΛΑΔΑ ΝΤΟΚΙΜΑΝΤΕΡ                    |
+| Trojan War documentary                     | Πόλεμος των Τρώων ντοκιμαντέρ                 | ΠΟΛΕΜΟΣ ΤΩΝ ΤΡΩΩΝ ΝΤΟΚΙΜΑΝΤΕΡ                 |
+| Heroes of Ancient Greece documentary       | Ηρώες της Αρχαίας Ελλάδας ντοκιμαντέρ         | ΗΡΩΕΣ ΤΗΣ ΑΡΧΑΙΑΣ ΕΛΛΑΔΑΣ ΝΤΟΚΙΜΑΝΤΕΡ         |
+| The Greek Democracy documentary            | Η Ελληνική Δημοκρατία ντοκιμαντέρ             | Η ΕΛΛΗΝΙΚΗ ΔΗΜΟΚΡΑΤΙΑ ΝΤΟΚΙΜΑΝΤΕΡ             |
+| Peloponnesian War documentary              | Πελοποννησιακός Πόλεμος ντοκιμαντέρ           | ΠΕΛΟΠΟΝΝΗΣΙΑΚΟΣ ΠΟΛΕΜΟΣ ΝΤΟΚΙΜΑΝΤΕΡ           |
+| Alexander the Great documentary            | Μέγας Αλέξανδρος ντοκιμαντέρ                  | ΜΕΓΑΣ ΑΛΕΞΑΝΔΡΟΣ ΝΤΟΚΙΜΑΝΤΕΡ                  |
+| Spartans documentary                       | Σπαρτιάτες ντοκιμαντέρ                        | ΣΠΑΡΤΙΑΤΕΣ ΝΤΟΚΙΜΑΝΤΕΡ                        |
+| Athenian Democracy documentary             | Αθηναϊκή Δημοκρατία ντοκιμαντέρ               | ΑΘΗΝΑΪΚΗ ΔΗΜΟΚΡΑΤΙΑ ΝΤΟΚΙΜΑΝΤΕΡ               |
+
+
 ## Greek Alphabet and Pronunciation Guide
 
 Βίντεο Αρχαίας Ελληνικής Ιστορίας / Ancient Greek History Videos in Greek language. https://www.youtube.com/watch?v=wGBpnY17aak&list=PL3WDV93nIfv7CujR9eQKWDHWjpQrfc3zd&index=1
